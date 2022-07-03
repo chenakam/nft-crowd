@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+# 好像不正确。Github Action 无法成功运行。可能需要在之前或之后添加一些符号。
+#- name: TruffleHog OSS
+#  uses: trufflesecurity/trufflehog@v3.6.7
